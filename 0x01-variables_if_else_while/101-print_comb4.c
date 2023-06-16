@@ -1,6 +1,11 @@
 #include <stdio.h>
+/**
+ * main ->  prints all possible different combinations of three digits.
+ * followed by a new line
+ * Return: 0
+ */
 
-int main()
+int main(void)
 {
 	int number_1, number_2, numebr_3;
 

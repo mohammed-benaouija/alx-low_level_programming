@@ -1,6 +1,11 @@
 #include <stdio.h>
+/**
+ * main ->  prints all possible different combinations of two digits.
+ * followed by a new line
+ * Return: 0
+ */
 
-int main()
+int main(void)
 {
 	int numebr_1, numebr_2;
 
