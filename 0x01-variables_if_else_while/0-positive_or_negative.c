@@ -1,15 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - Entry point
- * 
- * Description: 'the program's description'
- * @parameter: describe the parameter
- * 
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
